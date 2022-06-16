@@ -1,0 +1,7 @@
+# Katalogi
+.vs/
+bin/
+bin-int/
+
+# Pliki
+*.user
